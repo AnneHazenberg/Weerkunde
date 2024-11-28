@@ -7,7 +7,7 @@ This book can be used as a template for other books. It includes a starter packa
 ``` {figure} figures/incl_Afbeelding18.png
 ---
 width: 50%
-name: De algemene circulatie
+name: fig.Afbeelding18.png
 ---
 De algemene circulatie
 ```
