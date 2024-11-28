@@ -2,10 +2,10 @@
 
 Welkom bij de cursus Weerkunde.
 
-``` {figure} figures/incl_fig.PNG
+``` {figure} figures/wolk.jpg
 ---
 width: 50%
-name: wolk.jpg
+name: wolk
 ---
 add bestand in de folder
 ```
