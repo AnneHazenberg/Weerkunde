@@ -2,22 +2,14 @@
 
 Welkom bij de cursus Weerkunde.
 
-``` {figure} wolk.jpg
+``` {figure} figures/wolk.jpg
 ---
 width: 50%
-name: wolk.jpg
+name: een afbeelding van een wolk
 ---
-een afbeelding van een wolk
+add bestand in de folder
 
 ```
-``` {figure} 
----
-width: 50%
-name: Afbeelding18.png
----
-De algemene circulatie
-
-```   
 
 $s=v*t$
     <div style="display: flex; justify-content: center;">
