@@ -7,7 +7,12 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-      - file: some_content/Hoofdstuk_1
+    - file: some_content/Hoofdstukken
+      sections: 
+      -file: some_content/Hoofdstuk_1.md
+      -file: some_content/Hoofdstuk_2.md
+      -file: some_content/Hoofdstuk_3.md
+      -file: some_content/Hoofdstuk_4.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
