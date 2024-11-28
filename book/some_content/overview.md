@@ -10,10 +10,10 @@ name: fig_wolk.jpg
 een afbeelding van een wolk
 
 ```
-``` {figure} Afbeelding18.png
+``` {figure} 
 ---
 width: 50%
-name: fig_wolk.jpg
+name: Afbeelding18.png
 ---
 De algemene circulatie
 
