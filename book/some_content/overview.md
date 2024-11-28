@@ -5,7 +5,7 @@ Welkom bij de cursus Weerkunde.
 ``` {figure} wolk.jpg
 ---
 width: 50%
-name: fig_wolk.jpg
+name: wolk.jpg
 ---
 een afbeelding van een wolk
 
