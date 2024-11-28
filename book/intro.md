@@ -1,13 +1,14 @@
 (intro)=
-# Welcome to the Template Book
+# Weerkunde
 
 _Write book intro here. This is the first page the student will see when opening the url._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
-``` {figure} figures/Afbeelding18.png
+Welkom bij de cursus weerkunde!
+
+``` {figure} figures/wolk.jpg
 ---
 width: 50%
-name: Afbeelding18.png
+name: hallo
 ---
 De algemene circulatie
 ```
