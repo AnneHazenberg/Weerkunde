@@ -21,3 +21,5 @@ een afbeelding van een wolk
             ></iframe>
         </div>
     </div>
+
+$s=v*t$
